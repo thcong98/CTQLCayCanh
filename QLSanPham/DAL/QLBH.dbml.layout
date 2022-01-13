@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QLBH">
+  <DataContextMoniker Name="/QLBHDataContext" />
+  <nestedChildShapes>
+    <classShape Id="39455866-b049-46d3-a341-0b874757e545" absoluteBounds="0.75, 0.75, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/QLBHDataContext/HoaDon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4b02a166-a990-49cb-95e7-65ba525bb147" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="39803a5b-9a84-4ffd-ba6a-a5d81f6e088b" absoluteBounds="3.75, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/QLBHDataContext/NhanVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2f170c05-e1da-4d8d-a502-66f34ec10e14" absoluteBounds="3.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0d04e7d2-1d17-4a06-9bb8-389e5972a6c1" absoluteBounds="3.625, 2.75, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/QLBHDataContext/SanPham" />
+      <nestedChildShapes>
+        <elementListCompartment Id="30355846-99bf-49a7-948d-db78529a887d" absoluteBounds="3.64, 3.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

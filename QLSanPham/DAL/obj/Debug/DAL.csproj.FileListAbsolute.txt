@@ -1,0 +1,28 @@
+D:\CShapProject\QuanlySanpham\DAL\bin\Debug\DAL.dll.config
+D:\CShapProject\QuanlySanpham\DAL\bin\Debug\DAL.dll
+D:\CShapProject\QuanlySanpham\DAL\bin\Debug\DAL.pdb
+D:\CShapProject\QuanlySanpham\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\CShapProject\QuanlySanpham\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\CShapProject\QuanlySanpham\DAL\obj\Debug\DAL.dll
+D:\CShapProject\QuanlySanpham\DAL\obj\Debug\DAL.pdb
+C:\Users\DELL\OneDrive\Máy tính\Hoa\DAL\bin\Debug\DAL.dll.config
+C:\Users\DELL\OneDrive\Máy tính\Hoa\DAL\bin\Debug\DAL.dll
+C:\Users\DELL\OneDrive\Máy tính\Hoa\DAL\bin\Debug\DAL.pdb
+C:\Users\DELL\OneDrive\Máy tính\Hoa\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\Hoa\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\Hoa\DAL\obj\Debug\DAL.dll
+C:\Users\DELL\OneDrive\Máy tính\Hoa\DAL\obj\Debug\DAL.pdb
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\DAL\bin\Debug\DAL.dll.config
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\DAL\bin\Debug\DAL.dll
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\DAL\bin\Debug\DAL.pdb
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\DAL\obj\Debug\DAL.dll
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\DAL\obj\Debug\DAL.pdb
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\DAL\bin\Debug\DAL.dll.config
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\DAL\bin\Debug\DAL.dll
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\DAL\bin\Debug\DAL.pdb
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\DAL\obj\Debug\DAL.dll
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\DAL\obj\Debug\DAL.pdb

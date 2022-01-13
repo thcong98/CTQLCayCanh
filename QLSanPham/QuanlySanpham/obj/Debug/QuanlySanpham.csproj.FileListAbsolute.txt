@@ -1,0 +1,94 @@
+D:\CShapProject\QuanlySanpham\QuanlySanpham\bin\Debug\QuanlySanpham.exe.config
+D:\CShapProject\QuanlySanpham\QuanlySanpham\bin\Debug\QuanlySanpham.exe
+D:\CShapProject\QuanlySanpham\QuanlySanpham\bin\Debug\QuanlySanpham.pdb
+D:\CShapProject\QuanlySanpham\QuanlySanpham\obj\Debug\QuanlySanpham.csprojAssemblyReference.cache
+D:\CShapProject\QuanlySanpham\QuanlySanpham\obj\Debug\QuanlySanpham.Form1.resources
+D:\CShapProject\QuanlySanpham\QuanlySanpham\obj\Debug\QuanlySanpham.Properties.Resources.resources
+D:\CShapProject\QuanlySanpham\QuanlySanpham\obj\Debug\QuanlySanpham.csproj.GenerateResource.cache
+D:\CShapProject\QuanlySanpham\QuanlySanpham\obj\Debug\QuanlySanpham.csproj.CoreCompileInputs.cache
+D:\CShapProject\QuanlySanpham\QuanlySanpham\obj\Debug\QuanlySanpham.exe
+D:\CShapProject\QuanlySanpham\QuanlySanpham\obj\Debug\QuanlySanpham.pdb
+D:\CShapProject\QuanlySanpham\QuanlySanpham\bin\Debug\BLL.dll
+D:\CShapProject\QuanlySanpham\QuanlySanpham\bin\Debug\DAL.dll
+D:\CShapProject\QuanlySanpham\QuanlySanpham\bin\Debug\BLL.pdb
+D:\CShapProject\QuanlySanpham\QuanlySanpham\bin\Debug\DAL.pdb
+D:\CShapProject\QuanlySanpham\QuanlySanpham\bin\Debug\DAL.dll.config
+D:\CShapProject\QuanlySanpham\QuanlySanpham\obj\Debug\QuanlySanpham.csproj.CopyComplete
+D:\CShapProject\QuanlySanpham\QuanlySanpham\obj\Debug\QuanlySanpham.Form2.resources
+C:\Users\DELL\OneDrive\Máy tính\Hoa\QuanlySanpham\bin\Debug\QuanlySanpham.exe.config
+C:\Users\DELL\OneDrive\Máy tính\Hoa\QuanlySanpham\bin\Debug\QuanlySanpham.exe
+C:\Users\DELL\OneDrive\Máy tính\Hoa\QuanlySanpham\bin\Debug\QuanlySanpham.pdb
+C:\Users\DELL\OneDrive\Máy tính\Hoa\QuanlySanpham\bin\Debug\BLL.dll
+C:\Users\DELL\OneDrive\Máy tính\Hoa\QuanlySanpham\bin\Debug\DAL.dll
+C:\Users\DELL\OneDrive\Máy tính\Hoa\QuanlySanpham\bin\Debug\BLL.pdb
+C:\Users\DELL\OneDrive\Máy tính\Hoa\QuanlySanpham\bin\Debug\DAL.pdb
+C:\Users\DELL\OneDrive\Máy tính\Hoa\QuanlySanpham\bin\Debug\DAL.dll.config
+C:\Users\DELL\OneDrive\Máy tính\Hoa\QuanlySanpham\obj\Debug\QuanlySanpham.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\Hoa\QuanlySanpham\obj\Debug\QuanlySanpham.Form1.resources
+C:\Users\DELL\OneDrive\Máy tính\Hoa\QuanlySanpham\obj\Debug\QuanlySanpham.Form2.resources
+C:\Users\DELL\OneDrive\Máy tính\Hoa\QuanlySanpham\obj\Debug\QuanlySanpham.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Máy tính\Hoa\QuanlySanpham\obj\Debug\QuanlySanpham.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Máy tính\Hoa\QuanlySanpham\obj\Debug\QuanlySanpham.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\Hoa\QuanlySanpham\obj\Debug\QuanlySanpham.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Máy tính\Hoa\QuanlySanpham\obj\Debug\QuanlySanpham.exe
+C:\Users\DELL\OneDrive\Máy tính\Hoa\QuanlySanpham\obj\Debug\QuanlySanpham.pdb
+C:\Users\DELL\OneDrive\Máy tính\Hoa\QuanlySanpham\obj\Debug\QuanlySanpham.Form3.resources
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\QuanlySanpham\bin\Debug\QuanlySanpham.exe.config
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\QuanlySanpham\bin\Debug\QuanlySanpham.exe
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\QuanlySanpham\bin\Debug\QuanlySanpham.pdb
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\QuanlySanpham\bin\Debug\BLL.dll
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\QuanlySanpham\bin\Debug\DAL.dll
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\QuanlySanpham\bin\Debug\BLL.pdb
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\QuanlySanpham\bin\Debug\DAL.pdb
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\QuanlySanpham\bin\Debug\DAL.dll.config
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.Form1.resources
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.Form2.resources
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.Form3.resources
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.exe
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.pdb
+C:\Users\DELL\OneDrive\Máy tính\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.HoaDon.resources
+C:\Users\BAC\Desktop\NET\QLSanPham\QuanlySanpham\bin\Debug\QuanlySanpham.exe.config
+C:\Users\BAC\Desktop\NET\QLSanPham\QuanlySanpham\bin\Debug\QuanlySanpham.exe
+C:\Users\BAC\Desktop\NET\QLSanPham\QuanlySanpham\bin\Debug\QuanlySanpham.pdb
+C:\Users\BAC\Desktop\NET\QLSanPham\QuanlySanpham\bin\Debug\BLL.dll
+C:\Users\BAC\Desktop\NET\QLSanPham\QuanlySanpham\bin\Debug\DAL.dll
+C:\Users\BAC\Desktop\NET\QLSanPham\QuanlySanpham\bin\Debug\BLL.pdb
+C:\Users\BAC\Desktop\NET\QLSanPham\QuanlySanpham\bin\Debug\DAL.pdb
+C:\Users\BAC\Desktop\NET\QLSanPham\QuanlySanpham\bin\Debug\DAL.dll.config
+C:\Users\BAC\Desktop\NET\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.csproj.AssemblyReference.cache
+C:\Users\BAC\Desktop\NET\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.Form1.resources
+C:\Users\BAC\Desktop\NET\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.Form2.resources
+C:\Users\BAC\Desktop\NET\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.Form3.resources
+C:\Users\BAC\Desktop\NET\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.frmXuatBill.resources
+C:\Users\BAC\Desktop\NET\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.HoaDon.resources
+C:\Users\BAC\Desktop\NET\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.Properties.Resources.resources
+C:\Users\BAC\Desktop\NET\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.csproj.GenerateResource.cache
+C:\Users\BAC\Desktop\NET\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.csproj.CoreCompileInputs.cache
+C:\Users\BAC\Desktop\NET\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.csproj.CopyComplete
+C:\Users\BAC\Desktop\NET\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.exe
+C:\Users\BAC\Desktop\NET\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.pdb
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\QuanlySanpham\bin\Debug\QuanlySanpham.exe.config
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\QuanlySanpham\bin\Debug\QuanlySanpham.exe
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\QuanlySanpham\bin\Debug\QuanlySanpham.pdb
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\QuanlySanpham\bin\Debug\BLL.dll
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\QuanlySanpham\bin\Debug\DAL.dll
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\QuanlySanpham\bin\Debug\BLL.pdb
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\QuanlySanpham\bin\Debug\DAL.pdb
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\QuanlySanpham\bin\Debug\DAL.dll.config
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.Form1.resources
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.Form2.resources
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.Form3.resources
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.frmXuatBill.resources
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.HoaDon.resources
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.exe
+C:\Users\DELL\OneDrive\Máy tính\ac\QLSanPham\QuanlySanpham\obj\Debug\QuanlySanpham.pdb
